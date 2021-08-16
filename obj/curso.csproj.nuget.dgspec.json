@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CursoC#\\Arquivo2\\curso.csproj": {}
+    "C:\\CursoC#\\EstudoAquivos_Parte6\\curso.csproj": {}
   },
   "projects": {
-    "C:\\CursoC#\\Arquivo2\\curso.csproj": {
+    "C:\\CursoC#\\EstudoAquivos_Parte6\\curso.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CursoC#\\Arquivo2\\curso.csproj",
+        "projectUniqueName": "C:\\CursoC#\\EstudoAquivos_Parte6\\curso.csproj",
         "projectName": "curso",
-        "projectPath": "C:\\CursoC#\\Arquivo2\\curso.csproj",
+        "projectPath": "C:\\CursoC#\\EstudoAquivos_Parte6\\curso.csproj",
         "packagesPath": "C:\\Users\\herib\\.nuget\\packages\\",
-        "outputPath": "C:\\CursoC#\\Arquivo2\\obj\\",
+        "outputPath": "C:\\CursoC#\\EstudoAquivos_Parte6\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
